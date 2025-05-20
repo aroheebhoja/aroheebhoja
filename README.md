@@ -1,4 +1,4 @@
-Hi! I'm Arohee (she/her), a senior at CMU majoring in math with a concentration in Discrete Math and Logic. 
+Hi! I'm Arohee (she/her). I graduated from CMU in 2025 with a BS in Mathematical Sciences concentrating in Discrete Math and Logic. 
 
 My interests:
 - Mathematical formalization and interactive theorem proving
