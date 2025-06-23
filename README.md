@@ -1,4 +1,4 @@
-Hi! I'm Arohee (she/her). I graduated from CMU in 2025 with a BS in Mathematical Sciences concentrating in Discrete Math and Logic. 
+Hi! I'm Arohee (she/her). I graduated from CMU in 2025 with a BS in Mathematical Sciences concentrating in Discrete Math and Logic, and I currently work as a researcher at the Hoskinson Center for Formal Mathematics at CMU. 
 
 My interests:
 - Mathematical formalization and interactive theorem proving
