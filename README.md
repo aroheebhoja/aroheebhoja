@@ -4,5 +4,5 @@ My interests:
 - Mathematical formalization and interactive theorem proving
 - Combinatorial graph theory
 - Theoretical computer science (especially computability theory, and its intersections with philosophy)
-- Making art and (tattooing)[ceruleanbluehue.github.io]
+- Making art and [tattooing](ceruleanbluehue.github.io)
 - Teaching!
